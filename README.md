@@ -47,7 +47,7 @@ We have packed Canopy with relevant environment dependencies into a single packa
 
 1. Download the package (canopy_aws.tar.gz) from here:
    https://drive.google.com/file/d/15G_kJDtVMEYwkKbP-tzfIyR0vgSOL_FE/view?usp=sharing
-2. Open the AWS console, and launch your instance by choosing FPGA Developer AMI from AWS Marketplace. Note that your instance type should be f1 (f1.2xlarge, f1.4xlarge, or f1.16xlarge).
+2. Open the AWS console, and launch your instance by choosing FPGA Developer AMI from AWS Marketplace. Note that your instance type should be f1 (f1.2xlarge, f1.4xlarge, or f1.16xlarge) and the region should be US West (Oregon) \<us-west-2\>.
 3. Open your terminal, and go to the home directory (should be `/home/centos` by default), upload your package to the home directory.
 4. Decompress the file canopy_aws.tar.gz under the home directory (`/home/centos`, this is important), now you will find a README.md under the home directory, just follow the instructions to try it.
 
