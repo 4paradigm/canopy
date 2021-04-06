@@ -28,7 +28,7 @@ def _load_sw():
     env = get_env()
     lib_driver_name = (
         "libvta_tsim"
-        if env.TARGET == ""
+        if env.TARGET == "tsim"
         else "libvta"
         if env.TARGET in ["intelfocl", "xilinxvitis"]
         else "libvta_fsim"
