@@ -34,10 +34,9 @@ According to the RFC, we have submitted tens of PRs to the TVM community (dated 
 - (merged) https://github.com/apache/tvm/pull/5470
 - (merged) https://github.com/apache/tvm-vta/pull/9
 - https://github.com/apache/tvm-vta/pull/8
-- https://github.com/apache/tvm/pull/6126
+- (merged) https://github.com/apache/tvm/pull/6126
 - (merged) https://github.com/apache/tvm/pull/6125
-- https://github.com/apache/tvm/pull/5842
-- https://github.com/apache/tvm/pull/5471
+- (closed) https://github.com/apache/tvm/pull/5842
 
 **However, a more efficient hardware design as well as the Xilinx FPGA support are included only in this repository. We strongly recommend you to start your evaluation on AWS EC2 F1 instances as following, which is easy to develop, compile, and deploy your models.**
 
