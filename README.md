@@ -1,3 +1,5 @@
+<img src="docs/canopy.png" alt="logo" width="200"/>
+
 Canopy: FPGA-Accelerated Deep Learning Compiler Stack
 ===
 
